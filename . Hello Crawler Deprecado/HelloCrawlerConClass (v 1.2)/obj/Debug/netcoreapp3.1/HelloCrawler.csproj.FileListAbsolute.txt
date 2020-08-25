@@ -1,0 +1,39 @@
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.exe
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.deps.json
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.runtimeconfig.json
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.runtimeconfig.dev.json
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.dll
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.pdb
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.csprojAssemblyReference.cache
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.AssemblyInfoInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.AssemblyInfo.cs
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.csproj.CoreCompileInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.dll
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.pdb
+C:\Users\licja\Dropbox\Curso .Net\Hello Crawler\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.genruntimeconfig.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.exe
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.deps.json
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.runtimeconfig.json
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.runtimeconfig.dev.json
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.dll
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\bin\Debug\netcoreapp3.1\HelloCrawler.pdb
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.csprojAssemblyReference.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.AssemblyInfoInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.AssemblyInfo.cs
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.csproj.CoreCompileInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.dll
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.pdb
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawler\obj\Debug\netcoreapp3.1\HelloCrawler.genruntimeconfig.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\bin\Debug\netcoreapp3.1\HelloCrawler.exe
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\bin\Debug\netcoreapp3.1\HelloCrawler.deps.json
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\bin\Debug\netcoreapp3.1\HelloCrawler.runtimeconfig.json
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\bin\Debug\netcoreapp3.1\HelloCrawler.runtimeconfig.dev.json
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\bin\Debug\netcoreapp3.1\HelloCrawler.dll
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\bin\Debug\netcoreapp3.1\HelloCrawler.pdb
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.csprojAssemblyReference.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.AssemblyInfoInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.AssemblyInfo.cs
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.csproj.CoreCompileInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.dll
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.pdb
+C:\Users\licja\Dropbox\Curso .Net\HelloCrawlerConClass\obj\Debug\netcoreapp3.1\HelloCrawler.genruntimeconfig.cache

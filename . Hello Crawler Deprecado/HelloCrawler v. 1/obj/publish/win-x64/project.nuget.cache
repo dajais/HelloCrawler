@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjHX5D1cyZN2WCALUch10Baugmpg18SvJ85jWkb1N3DQuwUyJh3xuXd/yBfp2wn3wXqLHOpWbRk5zP/iKhHPPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\licja\\Dropbox\\Curso .Net\\HelloCrawler\\HelloCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\licja\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.4\\microsoft.netcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\licja\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\licja\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x64.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

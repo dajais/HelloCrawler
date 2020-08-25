@@ -1,0 +1,30 @@
+C:\Users\licja\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\licja\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\licja\Desktop\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\licja\Desktop\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\bin\Debug\Prueba.exe.config
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\bin\Debug\Prueba.exe
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\bin\Debug\Prueba.pdb
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.Form1.resources
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.exe
+C:\Users\licja\Dropbox\Curso .Net\CrawlerWebForm\obj\Debug\Prueba.pdb
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.Form1.resources
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.exe
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\obj\Debug\Prueba.pdb
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\bin\Debug\Prueba.exe.config
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\bin\Debug\Prueba.exe
+C:\Users\licja\Dropbox\Hello Crawler\CrawlerWebForm\bin\Debug\Prueba.pdb
